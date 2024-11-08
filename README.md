@@ -1,9 +1,8 @@
 - 👋 Hello, I’m @Mayur-Bhil
 - 👀 I’m interested in WebDevelopement
 - 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Frontend Projects
 - 📫 How to reach me : mayurbhil47@gmail.com
-- 😄 Pronouns: Mayur
 
 
 <!---

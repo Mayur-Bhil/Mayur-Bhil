@@ -1,8 +1,9 @@
 - 👋 Hello, I’m @Mayur-Bhil
 - 👀 I’m interested in WebDevelopement
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning golang
 - 💞️ I’m looking to collaborate on Frontend Projects
 - 📫 How to reach me : mayurbhil47@gmail.com
+-building projects
 
 
 <!---

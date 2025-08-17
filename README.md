@@ -14,7 +14,7 @@
 const developer = {
     name: "Mayur-Bhil",
     role: ["Frontend Developer", "Full-Stack Developer", "Freelancer"],
-    location: "🌍 Your Location",
+    location: "🌍 from Surat, Gujarat",
     currentFocus: "Building scalable web applications",
     availability: "Open for freelance projects",
     

@@ -1,3 +1,44 @@
+<div align="center">
+
+<img src="./banner.svg" width="860" alt="Mayur Bhil, Full-Stack and DevOps Engineer" />
+
+<br />
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-mayur--bhil-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/mayur-bhil)
+[![X](https://img.shields.io/badge/x-@IamMayur__01-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/IamMayur_01)
+[![Email](https://img.shields.io/badge/email-get_in_touch-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:mayurbhil47@gmail.com)
+
+![Followers](https://img.shields.io/github/followers/Mayur-Bhil?style=flat-square&labelColor=0d1117&color=00d9ff&logo=github)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMayur-Bhil&query=%24.public_repos&label=repos&style=flat-square&labelColor=0d1117&color=a78bfa)
+![Status](https://img.shields.io/badge/open_to-freelance_projects-39d353?style=flat-square&labelColor=0d1117)
+
+<br />
+
+<img src="./terminal.svg" width="860" alt="Terminal card with details about Mayur" />
+
+</div>
+
+<br />
+
+## `$ about`
+
+I build clean, fast web apps from database to deployment, and I care about the parts people only notice when they break: performance, reliability and a smooth deploy. MERN and Next.js on the front, Docker and AWS behind it.
+
+> [!NOTE]
+> **Open for freelance projects.** Got an idea or an app that needs building? Message me on
+> [LinkedIn](https://linkedin.com/in/mayur-bhil) or [email me](mailto:mayurbhil47@gmail.com).
+
+<br />
+
+## `$ my year, in 3D`
+
+<div align="center">
+
+**Drag to rotate · scroll to zoom.** Every tower is a day I shipped code, built from my real GitHub contributions.
+
+</div>
+
+```stl
 solid skyline
 facet normal 0 0 1
 outer loop
@@ -9590,3 +9631,92 @@ vertex 170 -28 6
 endloop
 endfacet
 endsolid skyline
+```
+
+<br />
+
+## `$ how I ship`
+
+```mermaid
+flowchart LR
+    A([💡 Idea]) --> B[React / Next.js]
+    B --> C[Node + Express]
+    C --> D[(MongoDB)]
+    D --> E[🐳 Docker]
+    E --> F{{☁️ AWS}}
+    F --> G([🚀 Live])
+    classDef a fill:#0d1117,stroke:#00d9ff,color:#e6edf3
+    classDef b fill:#0d1117,stroke:#a78bfa,color:#e6edf3
+    class A,B,C a
+    class D,E,F,G b
+```
+
+<br />
+
+## `$ stack`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind&theme=dark" alt="Web stack" />
+<br /><br />
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,python,vscode&theme=dark" alt="DevOps and tools" />
+
+</div>
+
+<br />
+
+## `$ projects`
+
+| Project | What it does | Built with |
+| :--- | :--- | :--- |
+| [**blinkit**](https://github.com/Mayur-Bhil/blinkit) | Full-stack grocery e-commerce app: browse products, manage carts, secure checkout | MERN |
+| [**devTinder-app**](https://github.com/Mayur-Bhil/devTinder-app) | Connect, chat in real time and build new friendships or professional networks | MERN |
+| [**g-docs**](https://github.com/Mayur-Bhil/g-docs) | Real-time collaborative documents with a notification system | TypeScript |
+| [**todo-app**](https://github.com/Mayur-Bhil/todo-app) | Monorepo deployment with Docker, a hands-on DevOps build | Docker, TypeScript |
+| [**mern-testing**](https://github.com/Mayur-Bhil/mern-testing) | Testing in the MERN stack, basic to advanced | TypeScript |
+| [**medium**](https://github.com/Mayur-Bhil/medium) | A full-stack blogging platform | TypeScript |
+
+<br />
+
+## `$ services`
+
+| | Service | What you get |
+| :-: | :--- | :--- |
+| **01** | **Frontend Development** | Modern, responsive interfaces in React and Next.js, built for speed |
+| **02** | **Full-Stack Applications** | End-to-end web apps with Node.js, MongoDB and clean APIs |
+| **03** | **Performance Optimization** | Faster load times and smoother UX for apps you already have |
+| **04** | **Cloud Deployment** | Docker, AWS and CI/CD to deploy and scale with confidence |
+
+<br />
+
+## `$ find me`
+
+```geojson
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"title":"Surat, Gujarat, India","description":"Based here. Building for the world.","marker-symbol":"star","marker-color":"00d9ff","marker-size":"large"},"geometry":{"type":"Point","coordinates":[72.8311,21.1702]}}]}
+```
+
+<br />
+
+## `$ activity`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mayur-Bhil/Mayur-Bhil/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mayur-Bhil/Mayur-Bhil/output/github-snake.svg" />
+  <img width="860" alt="Contribution snake" src="https://raw.githubusercontent.com/Mayur-Bhil/Mayur-Bhil/output/github-snake.svg" />
+</picture>
+
+</div>
+
+<br />
+
+## `$ contact`
+
+<div align="center">
+
+**[LinkedIn](https://linkedin.com/in/mayur-bhil)** &nbsp;·&nbsp; **[Email](mailto:mayurbhil47@gmail.com)** &nbsp;·&nbsp; **[X / Twitter](https://twitter.com/IamMayur_01)**
+
+<sub>Building dreams, one line at a time.</sub>
+
+</div>

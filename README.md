@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="./banner.svg" width="860" alt="Mayur Bhil, Full-Stack and DevOps Engineer" />
+# gm, I'm Mayur 👋
+
+### I build full-stack products, and I'm taking them on-chain ⛓️
+
+_MERN and Next.js developer, learning Ethereum and Solidity in public._
 
 <br />
 
-# gm, I'm Mayur 👋
-### Full-stack dev learning Web3, one block at a time ⛓️
+![Followers](https://img.shields.io/github/followers/Mayur-Bhil?style=for-the-badge&labelColor=0d1117&color=627EEA&logo=github)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMayur-Bhil&query=%24.public_repos&label=repos&style=for-the-badge&labelColor=0d1117&color=a78bfa&logo=github)
+![Contributions](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FMayur-Bhil%3Fy%3Dlast&query=%24.total.lastYear&label=contributions%20%28last%20year%29&style=for-the-badge&labelColor=0d1117&color=39d353&logo=github)
 
-![Ethereum](https://img.shields.io/badge/Ethereum-learning-627EEA?style=for-the-badge&logo=ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-learning-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-exploring-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
-![Polygon](https://img.shields.io/badge/Polygon-exploring-7B3FE4?style=for-the-badge&logo=polygon&logoColor=white)
-
-![Followers](https://img.shields.io/github/followers/Mayur-Bhil?style=flat-square&labelColor=0d1117&color=627EEA&logo=github)
-![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMayur-Bhil&query=%24.public_repos&label=repos&style=flat-square&labelColor=0d1117&color=a78bfa)
-![Status](https://img.shields.io/badge/open_to-freelance_projects-39d353?style=flat-square&labelColor=0d1117)
+![Ethereum](https://img.shields.io/badge/Ethereum-learning-627EEA?style=flat-square&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-learning-363636?style=flat-square&logo=solidity&logoColor=white)
+![Freelance](https://img.shields.io/badge/open_to-freelance_projects-39d353?style=flat-square&labelColor=0d1117)
 
 <br />
 
@@ -35,28 +35,13 @@
 
 <br />
 
-## `$ node status`
-
-```text
-INFO [2026-11-12|09:41:07] Starting node            client="Mayur/full-stack-v3"  network="Surat, India"
-INFO [2026-11-12|09:41:07] Loaded modules           frontend=React,Next.js  backend=Node,Express,MongoDB
-INFO [2026-11-12|09:41:08] Loaded modules           devops=Docker,AWS,CI/CD  tools=Git,Linux,Python
-INFO [2026-11-12|09:41:08] Syncing                  chain=Ethereum  skills=Solidity,smart-contracts  mode=learning-in-public
-INFO [2026-11-12|09:41:09] Peer discovery           looking_for="freelance projects, early-stage dApps, builders"
-INFO [2026-11-12|09:41:09] Node is live            status=OPEN_FOR_WORK
-```
-
-<br />
-
-## `$ whoami`
+## `$ about`
 
 ```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.24;
 
 contract Mayur {
-    string public name       = "Mayur Bhil";
-    string public location   = "Surat, Gujarat, India";
     string public role       = "Full-Stack Developer, Web3 Learner";
     string public building   = "MERN, Next.js, Docker, AWS, now smart contracts";
     bool   public openToWork = true;   // freelance projects welcome
@@ -67,11 +52,29 @@ contract Mayur {
 }
 ```
 
-I build clean, fast web apps from database to deployment, and I'm now taking that skill set on-chain: learning Ethereum, Solidity and dApp development in public. I also study Finance (MBA), which is exactly why DeFi pulls me in.
+I take an idea from database to deployment, and I care about the parts people only notice when they break: speed, reliability and a smooth deploy. Alongside my MBA in Finance, I'm learning Web3 because money, ownership and software are all moving on-chain, and I want to build there, not just watch.
 
-> [!NOTE]
-> **Open for freelance projects.** Got an idea, a web app, or an early-stage dApp frontend? Message me on
-> [LinkedIn](https://linkedin.com/in/mayur-bhil) or [email me](mailto:mayurbhil47@gmail.com).
+<br />
+
+## `$ right now`
+
+| | |
+| :--- | :--- |
+| 🔨 **Building** | Full-stack apps with MERN and Next.js |
+| 📚 **Learning** | Solidity, Hardhat, ethers.js, smart-contract basics |
+| 🤝 **Looking for** | Freelance projects, and Web3 builders to learn with |
+| 💬 **Ask me about** | React, Node.js, MongoDB, Docker, deployment |
+
+<br />
+
+## `$ how I work`
+
+| Principle | What it means for you |
+| :--- | :--- |
+| **Ship small, ship often** | You see working progress every few days, not a big reveal at the end |
+| **Readable code** | Clean structure, so the next developer can pick it up without me |
+| **Performance by default** | Fast load times and smooth UX are part of the build, not an add-on |
+| **Build in public** | My work and progress are visible right here on GitHub |
 
 <br />
 
@@ -138,31 +141,16 @@ My edge: I can build the **whole product**, from the wallet-connected frontend t
 
 <br />
 
-## `$ my universe`
+## `$ projects`
 
-```mermaid
-mindmap
-  root((Mayur))
-    Frontend
-      React
-      Next.js
-      Tailwind
-    Backend
-      Node.js
-      Express
-      MongoDB
-    DevOps
-      Docker
-      AWS
-      CI/CD
-    Web3
-      Ethereum
-      Solidity
-      dApps
-    Finance
-      MBA
-      DeFi curiosity
-```
+| Project | What it does | Built with |
+| :--- | :--- | :--- |
+| [**web3-things**](https://github.com/Mayur-Bhil/web3-things) | My Web3 experiments and learning, in public | Web3 |
+| [**blinkit**](https://github.com/Mayur-Bhil/blinkit) | Full-stack grocery e-commerce app: browse products, manage carts, secure checkout | MERN |
+| [**devTinder-app**](https://github.com/Mayur-Bhil/devTinder-app) | Connect, chat in real time and build new friendships or professional networks | MERN |
+| [**g-docs**](https://github.com/Mayur-Bhil/g-docs) | Real-time collaborative documents with a notification system | TypeScript |
+| [**todo-app**](https://github.com/Mayur-Bhil/todo-app) | Monorepo deployment with Docker, a hands-on DevOps build | Docker, TypeScript |
+| [**medium**](https://github.com/Mayur-Bhil/medium) | A full-stack blogging platform | TypeScript |
 
 <br />
 
@@ -178,7 +166,7 @@ mindmap
 
 <br />
 
-## `$ roadmap` &nbsp;·&nbsp; learning in public
+## `$ web3 roadmap` &nbsp;·&nbsp; learning in public
 
 | Phase | Focus | Status |
 | :-: | :--- | :-: |
@@ -186,21 +174,8 @@ mindmap
 | **2** | Hardhat or Foundry: build, test, deploy | ⚪ next |
 | **3** | ERC-20 and ERC-721 with OpenZeppelin | ⚪ next |
 | **4** | ethers.js / wagmi: connect a Next.js frontend | ⚪ next |
-| **5** | IPFS storage and L2 deployment (Polygon) | ⚪ next |
+| **5** | IPFS storage and L2 deployment | ⚪ next |
 | **6** | Ship a full dApp and open-source it | ⚪ goal |
-
-<br />
-
-## `$ projects`
-
-| Project | What it does | Built with |
-| :--- | :--- | :--- |
-| [**web3-things**](https://github.com/Mayur-Bhil/web3-things) | My Web3 experiments and learning, in public | Web3 |
-| [**blinkit**](https://github.com/Mayur-Bhil/blinkit) | Full-stack grocery e-commerce app: browse products, manage carts, secure checkout | MERN |
-| [**devTinder-app**](https://github.com/Mayur-Bhil/devTinder-app) | Connect, chat in real time and build new friendships or professional networks | MERN |
-| [**g-docs**](https://github.com/Mayur-Bhil/g-docs) | Real-time collaborative documents with a notification system | TypeScript |
-| [**todo-app**](https://github.com/Mayur-Bhil/todo-app) | Monorepo deployment with Docker, a hands-on DevOps build | Docker, TypeScript |
-| [**medium**](https://github.com/Mayur-Bhil/medium) | A full-stack blogging platform | TypeScript |
 
 <br />
 
@@ -215,38 +190,17 @@ mindmap
 
 <br />
 
-## `$ builder card` &nbsp;·&nbsp; ERC-721 metadata
-
-```json
-{
-  "name": "Mayur Bhil #001",
-  "description": "Full-stack developer from Surat, learning Web3 in public.",
-  "external_url": "https://github.com/Mayur-Bhil",
-  "attributes": [
-    { "trait_type": "Role",      "value": "Full-Stack Developer" },
-    { "trait_type": "Chain",     "value": "Ethereum (learning)" },
-    { "trait_type": "Stack",     "value": "MERN + Next.js" },
-    { "trait_type": "DevOps",    "value": "Docker + AWS" },
-    { "trait_type": "Location",  "value": "Surat, India" },
-    { "trait_type": "Rarity",    "value": "1 of 1" },
-    { "trait_type": "Available", "value": "Freelance" }
-  ]
-}
-```
-
-<br />
-
-## `$ my node 📡`
-
-```geojson
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"title":"Node: Surat, Gujarat, India","description":"Online, building, open for the world.","marker-symbol":"star","marker-color":"627EEA","marker-size":"large"},"geometry":{"type":"Point","coordinates":[72.8311,21.1702]}}]}
-```
-
-<br />
-
-## `$ on-chain activity`
+## `$ live activity`
 
 <div align="center">
+
+_These update automatically from my GitHub, no manual edits._
+
+<br />
+
+<img width="860" src="https://ghchart.rshah.org/627EEA/Mayur-Bhil" alt="Live GitHub contribution chart" />
+
+<br /><br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mayur-Bhil/Mayur-Bhil/output/github-snake-dark.svg" />
@@ -254,9 +208,19 @@ mindmap
   <img width="860" alt="Contribution snake" src="https://raw.githubusercontent.com/Mayur-Bhil/Mayur-Bhil/output/github-snake.svg" />
 </picture>
 
-<br /><br />
+</div>
+
+<br />
+
+## `$ let's build`
+
+<div align="center">
+
+Have an idea, a product to ship, or an early-stage dApp that needs a frontend?
 
 **[LinkedIn](https://linkedin.com/in/mayur-bhil)** &nbsp;·&nbsp; **[Email](mailto:mayurbhil47@gmail.com)** &nbsp;·&nbsp; **[X / Twitter](https://twitter.com/IamMayur_01)**
+
+## 🚀 Let's build something great together 🚀
 
 <sub>WAGMI · building in public, one block at a time ⛓️</sub>
 

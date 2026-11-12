@@ -13,11 +13,10 @@
   <a href="mailto:mayurbhil47@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-![Followers](https://img.shields.io/github/followers/Mayur-Bhil?style=flat-square&labelColor=0d1117&color=7B2FF7&logo=github)
-![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMayur-Bhil&query=%24.public_repos&label=repos&style=flat-square&labelColor=0d1117&color=F107A3&logo=github)
-![Contributions](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FMayur-Bhil%3Fy%3Dlast&query=%24.total.lastYear&label=contributions%20%28last%20year%29&style=flat-square&labelColor=0d1117&color=00C6FF&logo=github)
-![Freelance](https://img.shields.io/badge/open_to-freelance_projects-00E5A0?style=flat-square&labelColor=0d1117)
-![Views](https://komarev.com/ghpvc/?username=Mayur-Bhil&style=flat-square&color=F107A3&label=profile+views)
+![Building](https://img.shields.io/badge/BUILDING-MERN_STACK-00C6FF?style=for-the-badge&labelColor=0d1117)
+![Learning](https://img.shields.io/badge/LEARNING-WEB3_%26_SOLIDITY-7B2FF7?style=for-the-badge&labelColor=0d1117)
+![Studying](https://img.shields.io/badge/STUDYING-MBA_IN_FINANCE-F107A3?style=for-the-badge&labelColor=0d1117)
+![Status](https://img.shields.io/badge/STATUS-OPEN_FOR_FREELANCE-00E5A0?style=for-the-badge&labelColor=0d1117)
 
 <details>
 <summary><b>🦊 &nbsp;Connect Wallet &nbsp;(click me)</b></summary>

@@ -209,7 +209,7 @@ _These update automatically from my GitHub._
 
 <br />
 
-<img width="860" src="https://ghchart.rshah.org/627EEA/Mayur-Bhil" alt="Live GitHub contribution chart" />
+<img width="860" src="https://ghchart.rshah.org/216e39/Mayur-Bhil" alt="Live GitHub contribution chart" />
 
 <br /><br />
 

@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF0000,100:FF6A00&height=220&section=header&text=Mayur%20Bhil&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20Web3%20%7C%20Finance&descAlignY=62&descSize=20" width="100%" alt="Mayur Bhil" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00C6FF,50:7B2FF7,100:F107A3&height=220&section=header&text=Mayur%20Bhil&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20Web3%20%7C%20Finance&descAlignY=62&descSize=20" width="100%" alt="Mayur Bhil" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=FF6A00&center=true&vCenter=true&width=640&height=40&lines=MERN+Stack+Developer;Learning+Web3+%26+Solidity;Doing+my+MBA+in+Finance;Building+full-stack+products+on-chain" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=640&height=40&lines=MERN+Stack+Developer;Learning+Web3+%26+Solidity;Doing+my+MBA+in+Finance;Building+full-stack+products+on-chain" alt="Typing animation" />
 
-### I build. I ship. Now I'm taking it on-chain. 🔥
+### I build. I ship. Now I'm taking it on-chain. ✨
 **MERN & Next.js Developer &nbsp;|&nbsp; Web3 Learner &nbsp;|&nbsp; MBA in Finance**
 
 <p align="center">
@@ -13,11 +13,11 @@
   <a href="mailto:mayurbhil47@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-![Followers](https://img.shields.io/github/followers/Mayur-Bhil?style=flat-square&labelColor=0d1117&color=FF1E1E&logo=github)
-![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMayur-Bhil&query=%24.public_repos&label=repos&style=flat-square&labelColor=0d1117&color=FF6A00&logo=github)
-![Contributions](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FMayur-Bhil%3Fy%3Dlast&query=%24.total.lastYear&label=contributions%20%28last%20year%29&style=flat-square&labelColor=0d1117&color=FF6A00&logo=github)
-![Freelance](https://img.shields.io/badge/open_to-freelance_projects-FF6A00?style=flat-square&labelColor=0d1117)
-![Views](https://komarev.com/ghpvc/?username=Mayur-Bhil&style=flat-square&color=FF1E1E&label=profile+views)
+![Followers](https://img.shields.io/github/followers/Mayur-Bhil?style=flat-square&labelColor=0d1117&color=7B2FF7&logo=github)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMayur-Bhil&query=%24.public_repos&label=repos&style=flat-square&labelColor=0d1117&color=F107A3&logo=github)
+![Contributions](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FMayur-Bhil%3Fy%3Dlast&query=%24.total.lastYear&label=contributions%20%28last%20year%29&style=flat-square&labelColor=0d1117&color=00C6FF&logo=github)
+![Freelance](https://img.shields.io/badge/open_to-freelance_projects-00E5A0?style=flat-square&labelColor=0d1117)
+![Views](https://komarev.com/ghpvc/?username=Mayur-Bhil&style=flat-square&color=F107A3&label=profile+views)
 
 <details>
 <summary><b>🦊 &nbsp;Connect Wallet &nbsp;(click me)</b></summary>
@@ -70,7 +70,7 @@ flowchart LR
     R -->|REST API| E[🚂 Express + Node]
     E --> M[(🍃 MongoDB)]
     E -. Docker + AWS .-> D([🚀 Deployed])
-    classDef c fill:#0d1117,stroke:#FF6A00,color:#e6edf3
+    classDef c fill:#0d1117,stroke:#00C6FF,color:#e6edf3
     class U,R,E,M,D c
 ```
 
@@ -96,8 +96,8 @@ flowchart LR
     C --> D{{📜 Smart Contract}}
     D --> E[(⛓️ Ethereum)]
     E --> F([🚀 My first dApp])
-    classDef web2 fill:#0d1117,stroke:#FF6A00,color:#e6edf3
-    classDef web3 fill:#0d1117,stroke:#FF1E1E,color:#e6edf3
+    classDef web2 fill:#0d1117,stroke:#00C6FF,color:#e6edf3
+    classDef web3 fill:#0d1117,stroke:#7B2FF7,color:#e6edf3
     class A web2
     class B,C,D,E,F web3
 ```
@@ -113,8 +113,8 @@ flowchart TB
     F[💰 Finance<br/>MBA] --> X{{🎯 FinTech and DeFi builder}}
     C[💻 Code<br/>MERN + Next.js] --> X
     W[⛓️ Web3<br/>Solidity + Ethereum] --> X
-    classDef a fill:#0d1117,stroke:#FF6A00,color:#e6edf3
-    classDef b fill:#0d1117,stroke:#FF1E1E,color:#e6edf3
+    classDef a fill:#0d1117,stroke:#00C6FF,color:#e6edf3
+    classDef b fill:#0d1117,stroke:#F107A3,color:#e6edf3
     class F,C,W a
     class X b
 ```
@@ -186,7 +186,7 @@ Each next block uses the full hash of the previous block as `prev`. The table ab
 <br /><br />
 <img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,python,vscode&theme=dark" alt="DevOps and tools" />
 <br /><br />
-<img src="https://img.shields.io/badge/Ethereum-learning-FF1E1E?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
+<img src="https://img.shields.io/badge/Ethereum-learning-627EEA?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
 <img src="https://img.shields.io/badge/Solidity-learning-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
 
 </div>
@@ -212,7 +212,7 @@ _These update automatically from my GitHub._
 
 <br />
 
-<img width="640" src="https://github-readme-streak-stats.demolab.com/?user=Mayur-Bhil&theme=dark&hide_border=true&background=0D1117&ring=FF1E1E&fire=FF6A00&currStreakLabel=FF6A00&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub streak stats" />
+<img width="640" src="https://github-readme-streak-stats.demolab.com/?user=Mayur-Bhil&theme=dark&hide_border=true&background=0D1117&ring=7B2FF7&fire=F107A3&currStreakLabel=00C6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub streak stats" />
 
 <br /><br />
 
@@ -254,10 +254,10 @@ Send me your idea on <a href="https://linkedin.com/in/mayur-bhil">LinkedIn</a> o
 
 **[LinkedIn](https://linkedin.com/in/mayur-bhil)** &nbsp;·&nbsp; **[Email](mailto:mayurbhil47@gmail.com)** &nbsp;·&nbsp; **[X / Twitter](https://twitter.com/IamMayur_01)**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4500&pause=1800&color=FF6A00&center=true&vCenter=true&width=720&height=60&lines=%22Talk+is+cheap.+Show+me+the+code.%22;%E2%80%94+Linus+Torvalds" alt="Talk is cheap. Show me the code. - Linus Torvalds" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4500&pause=1800&color=00E5FF&center=true&vCenter=true&width=720&height=60&lines=%22Talk+is+cheap.+Show+me+the+code.%22;%E2%80%94+Linus+Torvalds" alt="Talk is cheap. Show me the code. - Linus Torvalds" />
 
 <sub>WAGMI · building in public, one block at a time ⛓️</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:FF6A00&height=120&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:7B2FF7,100:F107A3&height=120&section=footer" width="100%" alt="" />
 
 </div>
